@@ -1,0 +1,6 @@
+{
+  "name": "LocalLoom — Hyperlocal Textile Discovery & Try-at-Home",
+  "description": "Hyperlocal textile discovery and 90-minute Try-at-Home service for the Indore–Bhopal corridor. Real local shops, real fabric, try at home before you buy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
